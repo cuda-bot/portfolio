@@ -168,7 +168,7 @@ export const experiences = [
       image: selforal,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "Python","AI/ML","NLP","Flask","Vercel","Railway"],
       github: "https://github.com/cuda-bot/oral-health.git",
-      webapp: "https://oral-health-acj96ltht-archits-projects-3e246b17.vercel.app",
+      webapp: "https://oral-health.vercel.app/",
     },
     {
       id: 2,
